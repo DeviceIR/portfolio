@@ -1,0 +1,16 @@
+.images-box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.images-box img {
+  width: auto;
+  height: 80vh;
+  border: 2px solid red;
+  border-radius: 5px;
+  /* scale: 1.5; */
+}

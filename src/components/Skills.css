@@ -1,0 +1,16 @@
+.skill-list {
+  background-color: #999;
+  padding: 4rem 4rem;
+  display: flex;
+  justify-content: space-around;
+}
+.skill-list li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skillIcon {
+  font-size: 32px;
+  margin-right: 4px;
+}
