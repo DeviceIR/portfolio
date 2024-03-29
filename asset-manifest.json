@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2a4fcd8b.css",
+    "main.js": "/portfolio/static/js/main.32ed7d61.js",
+    "static/media/scoreboard.png": "/portfolio/static/media/scoreboard.add857673b2c2468aa7b.png",
+    "static/media/gamePlay.png": "/portfolio/static/media/gamePlay.431f62b7ff0092273168.png",
+    "static/media/my 1st try.png": "/portfolio/static/media/my 1st try.af0a95d10c78ba89e056.png",
+    "static/media/my 2st try.png": "/portfolio/static/media/my 2st try.08ff8671a18db6cf6652.png",
+    "static/media/adminpanel.png": "/portfolio/static/media/adminpanel.d8bdf8d2d31f41ca5a98.png",
+    "static/media/loggedIn-Message.png": "/portfolio/static/media/loggedIn-Message.ef15496216f36b05a5a3.png",
+    "static/media/login(ticket input).png": "/portfolio/static/media/login(ticket input).c217e5a6e1f678d5078a.png",
+    "index.html": "/portfolio/index.html",
+    "main.2a4fcd8b.css.map": "/portfolio/static/css/main.2a4fcd8b.css.map",
+    "main.32ed7d61.js.map": "/portfolio/static/js/main.32ed7d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4fcd8b.css",
+    "static/js/main.32ed7d61.js"
+  ]
+}
